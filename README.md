@@ -1,0 +1,1 @@
+﻿Code related to a [StackOverFlow Question](http://stackoverflow.com/questions/7680839/how-do-i-output-massive-orm-dynamic-query-to-an-mvc-3-view)
